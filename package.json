@@ -1,0 +1,22 @@
+{
+  "name": "syslogserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmaid/syslogserver.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmaid/syslogserver/issues"
+  },
+  "homepage": "https://github.com/danmaid/syslogserver#readme",
+  "dependencies": {
+    "syslog-server": "^1.0.1"
+  }
+}
