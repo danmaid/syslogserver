@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/danmaid/syslogserver#readme",
   "dependencies": {
+    "activedirectory2": "^1.2.7",
     "syslog-server": "^1.0.1"
   }
 }
